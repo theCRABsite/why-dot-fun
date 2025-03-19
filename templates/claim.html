@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Claim</title>
+	<link rel="stylesheet" type="text/css" href="/static/claim.css">
+</head>
+
+<body>
+
+	<h1>Congratulations {{ winner.name }}!</h1>
+	<p>You won a prize from {{ sponsor.name }}! Enter your details below to claim it</p>
+	<input type="text" placeholder="Wallet address">
+	<input type="button" value="Claim">
+
+	<script src="/static/claim.js"></script>
+
+</body>
+
+</html>
