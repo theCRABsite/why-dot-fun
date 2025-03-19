@@ -1,9 +1,9 @@
 # About the project
 
-![alt text](https://github.com/Nelis-sol/gamecall/blob/main/gamecall-why-dot-fun.png "Why.fun logo")
+![alt text](https://github.com/theCRABsite/why-dot-fun/blob/main/gamecall-why-dot-fun.png "Why.fun logo")
 <br />
 View a video demo of the result here:
-[Video demo](https://github.com/Nelis-sol/gamecall/blob/main/gamecall-why-dot-fun-video-demo.mp4)
+[Video demo](https://github.com/theCRABsite/why-dot-fun/blob/main/gamecall-why-dot-fun-video-demo.mp4)
 <br /><br />
 
 ## Gamecall (otherwise known as why.fun)
@@ -119,9 +119,3 @@ View a video demo of the result here:
 [Video demo](https://github.com/Nelis-sol/gamecall/blob/main/gamecall-why-dot-fun-video-demo.mp4)
 
 <br />
-
-# Contact
-Contact me via email (nelis.sol@protonmail.com) or on X (@nelis-sol)
-
-<br /><br />
-
